@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sathwikaa7
-- 👀 I’m interested in web developing and cybersecurity
-- 🌱 I’m currently learning web developing
+- 👀 I’m interested in web developing 
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me : sathwikagorumutchu@gmail.com
 
